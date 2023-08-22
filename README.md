@@ -4,3 +4,4 @@ I'm Junho, a software engineer from Jakarta, Indonesia. I mostly do frontend/mob
 
 - 🌱 I’m currently learning Native iOS development (hit me up if you can point me to a great resource for it!)
 - 📫 How to reach me: cjunho9868@gmail.com
+- I occasionally solve problems on leetcode, they're quite fun I'd say! [leetcode profile](https://leetcode.com/junchh/)
