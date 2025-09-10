@@ -1,2 +1,3 @@
 # Hi There!
-I learn by making and breaking stuff.
+Kinda unserious at times but super passionate about building stuff!.
+
