@@ -1,3 +1,4 @@
-# Hi There!
-Kinda unserious at times but super passionate about building stuff!.
+# Hi There 👋🏻
+Kinda unserious at times but super passionate about building stuff!
+
 
